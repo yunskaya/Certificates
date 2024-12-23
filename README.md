@@ -3,8 +3,7 @@
 Full-Stack Developer
 wissen akademi
 (07/2024 - 480 saat)
-
-İstanbul Kalkınma Ajansı ve Bahçeşehir Wissen Teknoloji iş birliğiyle düzenlenen %100 burs... Devamını Gör
+İstanbul Kalkınma Ajansı ve Bahçeşehir Wissen Teknoloji iş birliğiyle düzenlenen %100 burslu 480 saatlik Full-Stack Developer eğitim programını başarıyla tamamladım.
 
 
 ![Uygulamalarla_SQL_Öğreniyorum_Sertifika_page-0001](https://github.com/user-attachments/assets/e2d5d003-0c76-4886-9a90-cb54a8973b5e)
