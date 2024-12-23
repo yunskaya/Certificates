@@ -8,6 +8,7 @@ uygulamalarla nesne yönelimli programlama
 BTK AKADEMİ
 (09/2024)
 
+![Uploading Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika_page-0001.jpg…]()
 versiyon kontrolleri: git ve github
 BTK AKADEMİ
 (09/2024)
